@@ -4,6 +4,10 @@
   "description": "Theme created using Reddit's Dark theme as a guide. ",
   "version": "0.0.1",
   "publisher": "IntoCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Justin-Diner/reddit_dark_based_vscode_theme"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
