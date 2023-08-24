@@ -8,6 +8,14 @@
     "type": "git",
     "url": "https://github.com/Justin-Diner/reddit_dark_based_vscode_theme"
   },
+  "keywords": [
+    "reddit",
+    "reddit dark",
+    "dark theme",
+    "IntoCode",
+    "Motiv8der",
+    "reddit dark theme"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
