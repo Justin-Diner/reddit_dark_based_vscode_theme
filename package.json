@@ -27,7 +27,7 @@
       {
         "label": "Reddit Dark Based Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Reddit Dark Based Theme-color-theme.json"
+        "path": "./themes/reddit-dark-based-theme-color-theme.json"
       }
     ]
   }
