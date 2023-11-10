@@ -1,5 +1,5 @@
 {
-  "name": "Reddit Dark Based Theme - Fork",
+  "name": "Reddit Dark Based Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -2060,8 +2060,8 @@
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#001f33",
     "peekViewEditorGutter.background": "#001f33",
-    "peekViewEditor.matchHighlightBackground": "#ff8f0099",
-    "peekViewEditor.matchHighlightBorder": "#ee931e",
+    "peekViewEditor.matchHighlightBackground": "#000000bd",
+    "peekViewEditor.matchHighlightBorder": "#10a5ffe9",
     "peekViewResult.background": "#252526",
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",
